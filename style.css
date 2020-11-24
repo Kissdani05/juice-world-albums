@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body{
+    margin: 0;
+}
+
+.hero{
+    width: 100%;
+    height: 80vh;
+    background-image: url("képek/Juice-WRLD.jpg");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    padding: 20px;   
+}
+
+
+.hero h1 {
+    margin: 0;
+    color: white;
+    font-size: 5em;
+    font-family: 'Syne Mono', monospace;
+    text-align: center;
+    
+}
+
+table tr td img{
+    width:100%;
+}
+table tr td{
+    width:20vw;
+}
